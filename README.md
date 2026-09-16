@@ -1,4 +1,4 @@
-<p align="center"># Hi, I'm Abhishek 👋 </p>
+<h1 align="center">Hi, I'm Abhishek Bharadwaj </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&background=0D1117&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Certified;Cloud+Infrastructure+Automation;CI%2FCD+%7C+Terraform+%7C+Kubernetes" alt="Typing SVG" />
